@@ -1,0 +1,22 @@
+/*game details image*/
+.container img{
+    width: 480px;
+}
+/*game details words*/
+.container h2{
+    text-align: center;
+    font-weight: bolder;
+}
+/*download button*/
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+/* Darker background on mouse-over */
+.btn:hover {
+    background-color: RoyalBlue;
+  }
